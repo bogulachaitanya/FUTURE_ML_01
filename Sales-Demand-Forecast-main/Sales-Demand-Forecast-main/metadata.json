@@ -1,0 +1,8 @@
+{
+  "name": "Sales & Demand Forecasting",
+  "description": "A professional AI-powered Sales & Demand Forecasting platform that leverages custom Triple Exponential Smoothing (Holt-Winters), Autoregressive Lag models, and Gemini 3.5-Flash to predict sales curves and automate inventory optimizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
